@@ -5,7 +5,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://sub.ssss.xx.kg/clash?config=https://ku.kwou2.dpdns.org/sub/6ec267c6-1cdd-4c95-a135-5fa3350b47da"
+    url: " "
     type: http
     interval: 86400
     health-check:
